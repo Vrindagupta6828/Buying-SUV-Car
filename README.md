@@ -3,4 +3,4 @@ It is a classification model which helps us predict whether a person will buy th
 
 I have used kernel SVM classification for this.
 
-I have also taken help of Grid Search for optimisation of hyperparameters.
+I have also taken help of Grid Search for optimisation of hyperparameters.I have also used k-cross validation technique to improve my model.
